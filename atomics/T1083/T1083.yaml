@@ -203,7 +203,7 @@ atomic_tests:
   - windows
   input_arguments:
     output_file:
-      description: File to output results to
+      description: File to output results.
       type: string
       default: '%temp%\T1083-Enumerate-net.txt'
   executor:
